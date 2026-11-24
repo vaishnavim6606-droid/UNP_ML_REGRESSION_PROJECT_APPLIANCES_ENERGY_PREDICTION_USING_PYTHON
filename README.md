@@ -57,12 +57,12 @@ Tech Stack
 
 Python, pandas, NumPy, scikit-learn, XGBoost, TensorFlow/Keras, statsmodels, Matplotlib, Seaborn
 
+Acknowledgements
+
+Thanks to UNP Education (United Network of Professionals) for the internship opportunity and guidance for this project.
+
 Code Link (With VIF) : https://drive.google.com/file/d/1kF3lMdGNfvSRh_JtbbfkOH84_jT38yT-/view?usp=drive_link
 
 Code Link (Without VIF) : https://drive.google.com/file/d/10JRWbZv5nak6BWFTbu4MHGD5G9IvWFs2/view?usp=drive_link
 
 PPT Link : https://docs.google.com/presentation/d/1lN7yA1DmQlQWWmInVyCao9IwNl59Lx-b/edit?usp=drive_link&ouid=113382930934840677528&rtpof=true&sd=true
-
-Acknowledgements
-
-Thanks to UNP Education (United Network of Professionals) for the internship opportunity and guidance for this project.
